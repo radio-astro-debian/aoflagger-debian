@@ -1,3 +1,9 @@
+aoflagger (2.5.0-2trusty) trusty; urgency=low
+
+  * force linking to pthread
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Fri, 04 Apr 2014 17:00:26 +0200
+
 aoflagger (2.5.0-1trusty) trusty; urgency=low
 
   * build for trusty
