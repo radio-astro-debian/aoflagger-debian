@@ -1,3 +1,11 @@
+aoflagger (2.7.1-2trusty) trusty; urgency=medium
+
+  * New upstream release
+  * switch to casacore 2
+  * disable native arch on 64 bit
+
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Tue, 17 Nov 2015 11:45:35 +0200
+
 aoflagger (2.6.0-1trusty) trusty; urgency=medium
 
   * new upstream release
